@@ -10,10 +10,6 @@ This repository showcases the design, layout, and branding of the **All My Tech 
 - Laptop Sleeves & Cases
 - Earbuds
 - Speakers & Karaoke Speakers  
-:contentReference[oaicite:1]{index=1}
-
-The brand emphasizes competitive pricing, transparent policies, efficient delivery, and high customer satisfaction.  
-:contentReference[oaicite:2]{index=2}
 
 ---
 
