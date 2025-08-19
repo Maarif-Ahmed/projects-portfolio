@@ -26,9 +26,9 @@ My mission is simple: **empower businesses through technology.**
 ---
 
 ## 📂 Featured Projects
-- 🔗 [Project 1](#) – Short description of the project and its impact.  
-- 🔗 [Project 2](#) – Brief details of the solution delivered.  
-- 🔗 [Project 3](#) – Highlights of outcomes and technologies used.  
+- 🔗 [Skincare Solutions](https://skincaresolution.com.pk/)
+- 🔗 [TE](https://www.te.com/en/home.html) 
+- 🔗 [All My Tech](https://allmytech.ae/) 
 
 ---
 
